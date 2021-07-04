@@ -1,2 +1,2 @@
-# Updated-Replacing-Redux-with-hooks-and-contextAPI
+# Replacing-Redux-with-hooks-and-contextAPI
 Created with CodeSandbox
